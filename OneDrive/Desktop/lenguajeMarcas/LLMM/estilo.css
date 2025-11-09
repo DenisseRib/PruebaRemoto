@@ -1,0 +1,52 @@
+        
+        #contenedorGeneral{
+             border: 1px black solid;
+             display: flow-root;
+             
+            
+        }
+        #programa1{
+            border: 5px dashed lightcoral; 
+            text-align: center;
+            
+        }
+        #paraIzq{
+            float: left;
+            width: 50%;
+            border-right: 1px black solid;
+           
+
+
+        }
+        #fondoAzul{
+            background-color: aquamarine;
+            color: darkred;
+        }
+        #paraDcha{
+            border-left: 1px black solid;
+            float: right;
+            width: 48%;
+        }
+        #divAbajo {
+            clear: both;
+            border: 1px black solid;
+        }
+        #resaltadoAzul{
+            background-color: blue;
+            color: aqua;
+            font-weight: bold;
+        }
+        h2{
+            clear: both;
+        }
+        .común{
+            color: red;
+        }
+        #Java1{
+            float: left;
+            width: 25%;
+        }
+        #Java2{
+            float: right;
+            width: 25%;
+        }
